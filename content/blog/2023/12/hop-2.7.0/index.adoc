@@ -86,7 +86,7 @@ The overview below shows the community growth compared to the 2.6.0 release in S
 
 image:/img/Release-2.7/hop-community-growth.png[Apache Hop Community Growth, width="60%"]
 
-Without community interaction and contribution, Hop is just a coding club! Please feel free to join, participate in the discussion, test, file bug tickets on the software or documentation, ... Contributing is a lot more than writing code.
+Imagine Hop without the vibrant pulse of community interaction and contribution. It would merely be a coding club, devoid of its spirited essence! Embrace the opportunity to join us, engage in lively discussions, test our innovations, and flag any issues in our software or documentation. Remember, contributing transcends mere code; it's about nurturing a collective journey towards excellence.
 
 Check out our link:/community/contributing/[contribution guides^] and http://hop.apache.org/community/ethos/[Code of Conduct^] to find out more.
 
